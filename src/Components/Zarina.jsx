@@ -5,7 +5,7 @@ import di from '../assets/di.png';
 
 const Zarina = () => {
   return (
-    <div className='w-[1440px] h-[749px] mt-[39px] pt-[53px] px-[129px] pb-[237px] bg-[#1F242D] mx-auto'>
+    <div className='w-[1440px] h-[749px] pt-[53px] px-[129px] pb-[237px] bg-[#1F242D] mx-auto'>
       <h1 className='font-bold text-4xl text-center text-white'>Our <span className='text-[#00EEFF]'>Services</span></h1>
     <div className='flex justify-between mt-[50px]'>
       <div className='w-[380px] h-[369px] border-2 bg-[#323946] rounded-2xl mt-[27px] '>
