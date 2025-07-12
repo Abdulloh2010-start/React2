@@ -1,7 +1,7 @@
 export default function Header () {
   return (
     <header className="bg-[#1F242D] max-w-[1440px] mx-auto">
-      <nav className="flex items-center justify-between h-[78px] px-[30px]">
+      <nav className="flex items-center justify-between h-[78px] px-[100px] py-[50px]">
         <img src="./src/Components/img/Link → Portfolio.png" alt="Logo" />
         <ul className="hidden lg:flex items-center gap-[42px] text-white">
           <li className="hover:text-cyan-400 transition-all duration-[0.3s] cursor-pointer">Home</li>
